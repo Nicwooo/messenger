@@ -30,7 +30,8 @@ In the terminal, go in the project folder and run the command `npm start` : now 
 
 Then, open `MongoDB` and connect your mongodb to this url `mongodb://localhost:27017/messenger` : now you will be able to see the changes.
 
-Finally, open `Postman` and start by creating some accounts, disussions and messages.
+Finally, open `Postman`, click on the `import` button and import the `back-end-requests.postman_collection` file there.
+Now, you can start by creating some accounts, disussions and messages.
 
 Now, you can play with the app in `Postman`.
 
